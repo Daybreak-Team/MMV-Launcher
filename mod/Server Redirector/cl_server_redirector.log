@@ -1,0 +1,133 @@
+﻿2026-06-15 15:21:12.222 INFO  [14288] [Bootstrap@51] cl_server_redirector
+2026-06-15 15:21:12.223 INFO  [14288] [Config::Load@90] Redirect URL: https://nightreign.fs-emu.net
+2026-06-15 15:21:12.223 INFO  [14288] [Config::Load@97] Redirect password configured.
+2026-06-15 15:21:12.223 INFO  [14288] [Config::Load@118] Alt Save Active!
+2026-06-15 15:21:12.223 INFO  [14288] [Config::Load@125] Custom Shard: 
+2026-06-15 15:21:12.249 INFO  [14288] [QuellEOS@313] EOS SDK loaded, installing hooks...
+2026-06-15 15:21:12.251 INFO  [14288] [QuellEOS@350] EOS hooks installed successfully
+2026-06-15 15:21:12.293 INFO  [14288] [Bootstrap@66] Loaded
+2026-06-15 15:22:00.572 INFO  [16348] [Bootstrap@51] cl_server_redirector
+2026-06-15 15:22:00.572 INFO  [16348] [Config::Load@90] Redirect URL: https://nightreign.fs-emu.net
+2026-06-15 15:22:00.572 INFO  [16348] [Config::Load@97] Redirect password configured.
+2026-06-15 15:22:00.572 INFO  [16348] [Config::Load@118] Alt Save Active!
+2026-06-15 15:22:00.572 INFO  [16348] [Config::Load@125] Custom Shard: 
+2026-06-15 15:22:00.573 INFO  [16348] [QuellEOS@313] EOS SDK loaded, installing hooks...
+2026-06-15 15:22:00.573 INFO  [16348] [QuellEOS@350] EOS hooks installed successfully
+2026-06-15 15:22:00.615 INFO  [16348] [Bootstrap@66] Loaded
+2026-06-19 20:55:26.906 INFO  [40356] [Bootstrap@51] cl_server_redirector
+2026-06-19 20:55:26.906 INFO  [40356] [Config::Load@48] Loading config from: d:\Users\tdban\Desktop\MMV Master Project\Quality Check 2.1.6\More Map Variations 2.1.6 & Weapons Mod\mod\Server Redirector\cl_server_redirector.ini
+2026-06-19 20:55:26.907 INFO  [40356] [Config::Load@92] Redirect URL: https://nightreign.fs-emu.net
+2026-06-19 20:55:26.907 INFO  [40356] [Config::Load@99] Redirect password configured.
+2026-06-19 20:55:26.907 WARN  [40356] [Config::Load@119] Alt Save NOT Active!
+2026-06-19 20:55:26.907 INFO  [40356] [Config::Load@129] Custom Shard: MMV
+2026-06-19 20:55:26.935 INFO  [40356] [QuellEOS@313] EOS SDK loaded, installing hooks...
+2026-06-19 20:55:26.937 INFO  [40356] [QuellEOS@350] EOS hooks installed successfully
+2026-06-19 20:55:26.979 INFO  [40356] [Bootstrap@66] Loaded
+2026-06-19 21:33:02.317 INFO  [32284] [Bootstrap@51] cl_server_redirector
+2026-06-19 21:33:02.317 INFO  [32284] [Config::Load@48] Loading config from: d:\Users\tdban\Desktop\MMV Master Project\Quality Check 2.1.6\More Map Variations 2.1.6 & Weapons Mod\mod\Server Redirector\cl_server_redirector.ini
+2026-06-19 21:33:02.318 INFO  [32284] [Config::Load@92] Redirect URL: https://nightreign.fs-emu.net
+2026-06-19 21:33:02.318 INFO  [32284] [Config::Load@99] Redirect password configured.
+2026-06-19 21:33:02.318 WARN  [32284] [Config::Load@119] Alt Save NOT Active!
+2026-06-19 21:33:02.318 INFO  [32284] [Config::Load@129] Custom Shard: MMV
+2026-06-19 21:33:02.318 INFO  [32284] [QuellEOS@313] EOS SDK loaded, installing hooks...
+2026-06-19 21:33:02.319 INFO  [32284] [QuellEOS@350] EOS hooks installed successfully
+2026-06-19 21:33:02.363 INFO  [32284] [Bootstrap@66] Loaded
+2026-06-20 15:05:50.984 INFO  [13528] [Bootstrap@51] cl_server_redirector
+2026-06-20 15:05:50.988 INFO  [13528] [Config::Load@48] Loading config from: d:\Users\tdban\Desktop\MMV Master Project\Quality Check 2.1.6\More Map Variations 2.1.6 & Weapons Mod\mod\Server Redirector\cl_server_redirector.ini
+2026-06-20 15:05:50.994 INFO  [13528] [Config::Load@92] Redirect URL: https://nightreign.fs-emu.net
+2026-06-20 15:05:50.994 INFO  [13528] [Config::Load@99] Redirect password configured.
+2026-06-20 15:05:50.994 WARN  [13528] [Config::Load@119] Alt Save NOT Active!
+2026-06-20 15:05:50.994 INFO  [13528] [Config::Load@129] Custom Shard: MMV
+2026-06-20 15:05:51.020 INFO  [13528] [QuellEOS@313] EOS SDK loaded, installing hooks...
+2026-06-20 15:05:51.022 INFO  [13528] [QuellEOS@350] EOS hooks installed successfully
+2026-06-20 15:05:51.062 INFO  [13528] [Bootstrap@66] Loaded
+2026-06-20 15:12:57.354 INFO  [48456] [Bootstrap@51] cl_server_redirector
+2026-06-20 15:12:57.354 INFO  [48456] [Config::Load@48] Loading config from: d:\Users\tdban\Desktop\MMV Master Project\Quality Check 2.1.6\More Map Variations 2.1.6 & Weapons Mod\mod\Server Redirector\cl_server_redirector.ini
+2026-06-20 15:12:57.355 INFO  [48456] [Config::Load@92] Redirect URL: https://nightreign.fs-emu.net
+2026-06-20 15:12:57.355 INFO  [48456] [Config::Load@99] Redirect password configured.
+2026-06-20 15:12:57.355 WARN  [48456] [Config::Load@119] Alt Save NOT Active!
+2026-06-20 15:12:57.355 INFO  [48456] [Config::Load@129] Custom Shard: MMV
+2026-06-20 15:12:57.355 INFO  [48456] [QuellEOS@313] EOS SDK loaded, installing hooks...
+2026-06-20 15:12:57.356 INFO  [48456] [QuellEOS@350] EOS hooks installed successfully
+2026-06-20 15:12:57.395 INFO  [48456] [Bootstrap@66] Loaded
+2026-06-20 15:19:32.788 INFO  [4368] [Bootstrap@51] cl_server_redirector
+2026-06-20 15:19:32.788 INFO  [4368] [Config::Load@48] Loading config from: d:\Users\tdban\Desktop\MMV Master Project\Quality Check 2.1.6\More Map Variations 2.1.6 & Weapons Mod\mod\Server Redirector\cl_server_redirector.ini
+2026-06-20 15:19:32.789 INFO  [4368] [Config::Load@92] Redirect URL: https://nightreign.fs-emu.net
+2026-06-20 15:19:32.789 INFO  [4368] [Config::Load@99] Redirect password configured.
+2026-06-20 15:19:32.789 WARN  [4368] [Config::Load@119] Alt Save NOT Active!
+2026-06-20 15:19:32.789 INFO  [4368] [Config::Load@129] Custom Shard: MMV
+2026-06-20 15:19:32.789 INFO  [4368] [QuellEOS@313] EOS SDK loaded, installing hooks...
+2026-06-20 15:19:32.790 INFO  [4368] [QuellEOS@350] EOS hooks installed successfully
+2026-06-20 15:19:32.829 INFO  [4368] [Bootstrap@66] Loaded
+2026-06-20 15:22:05.595 INFO  [21828] [Bootstrap@51] cl_server_redirector
+2026-06-20 15:22:05.595 INFO  [21828] [Config::Load@48] Loading config from: d:\Users\tdban\Desktop\MMV Master Project\Quality Check 2.1.6\More Map Variations 2.1.6 & Weapons Mod\mod\Server Redirector\cl_server_redirector.ini
+2026-06-20 15:22:05.595 INFO  [21828] [Config::Load@92] Redirect URL: https://nightreign.fs-emu.net
+2026-06-20 15:22:05.595 INFO  [21828] [Config::Load@99] Redirect password configured.
+2026-06-20 15:22:05.595 WARN  [21828] [Config::Load@119] Alt Save NOT Active!
+2026-06-20 15:22:05.595 INFO  [21828] [Config::Load@129] Custom Shard: MMV
+2026-06-20 15:22:05.596 INFO  [21828] [QuellEOS@313] EOS SDK loaded, installing hooks...
+2026-06-20 15:22:05.596 INFO  [21828] [QuellEOS@350] EOS hooks installed successfully
+2026-06-20 15:22:05.636 INFO  [21828] [Bootstrap@66] Loaded
+2026-06-20 15:44:09.242 INFO  [44008] [Bootstrap@51] cl_server_redirector
+2026-06-20 15:44:09.242 INFO  [44008] [Config::Load@48] Loading config from: d:\Users\tdban\Desktop\MMV Master Project\Quality Check 2.1.6\More Map Variations 2.1.6 & Weapons Mod\mod\Server Redirector\cl_server_redirector.ini
+2026-06-20 15:44:09.243 INFO  [44008] [Config::Load@92] Redirect URL: https://nightreign.fs-emu.net
+2026-06-20 15:44:09.243 INFO  [44008] [Config::Load@99] Redirect password configured.
+2026-06-20 15:44:09.243 WARN  [44008] [Config::Load@119] Alt Save NOT Active!
+2026-06-20 15:44:09.243 INFO  [44008] [Config::Load@129] Custom Shard: MMV
+2026-06-20 15:44:09.243 INFO  [44008] [QuellEOS@313] EOS SDK loaded, installing hooks...
+2026-06-20 15:44:09.244 INFO  [44008] [QuellEOS@350] EOS hooks installed successfully
+2026-06-20 15:44:09.283 INFO  [44008] [Bootstrap@66] Loaded
+2026-06-20 16:23:08.728 INFO  [43244] [Bootstrap@51] cl_server_redirector
+2026-06-20 16:23:08.728 INFO  [43244] [Config::Load@48] Loading config from: d:\Users\tdban\Desktop\MMV Master Project\Quality Check 2.1.6\More Map Variations 2.1.6 & Weapons Mod\mod\Server Redirector\cl_server_redirector.ini
+2026-06-20 16:23:08.729 INFO  [43244] [Config::Load@92] Redirect URL: https://nightreign.fs-emu.net
+2026-06-20 16:23:08.729 INFO  [43244] [Config::Load@99] Redirect password configured.
+2026-06-20 16:23:08.729 WARN  [43244] [Config::Load@119] Alt Save NOT Active!
+2026-06-20 16:23:08.729 INFO  [43244] [Config::Load@129] Custom Shard: MMV
+2026-06-20 16:23:08.729 INFO  [43244] [QuellEOS@313] EOS SDK loaded, installing hooks...
+2026-06-20 16:23:08.730 INFO  [43244] [QuellEOS@350] EOS hooks installed successfully
+2026-06-20 16:23:08.770 INFO  [43244] [Bootstrap@66] Loaded
+2026-07-01 22:16:35.302 INFO  [84636] [Bootstrap@51] cl_server_redirector
+2026-07-01 22:16:35.304 INFO  [84636] [Config::Load@48] Loading config from: d:\Users\tdban\Desktop\MMV Master Project\Quality Check Folders\Quality Check 2.1.6\More Map Variations 2.1.6 & Weapons Mod\mod\Server Redirector\cl_server_redirector.ini
+2026-07-01 22:16:35.310 INFO  [84636] [Config::Load@92] Redirect URL: https://nightreign.fs-emu.net
+2026-07-01 22:16:35.310 INFO  [84636] [Config::Load@99] Redirect password configured.
+2026-07-01 22:16:35.310 WARN  [84636] [Config::Load@119] Alt Save NOT Active!
+2026-07-01 22:16:35.310 INFO  [84636] [Config::Load@129] Custom Shard: MMV
+2026-07-01 22:16:35.311 INFO  [84636] [QuellEOS@313] EOS SDK loaded, installing hooks...
+2026-07-01 22:16:35.312 INFO  [84636] [QuellEOS@350] EOS hooks installed successfully
+2026-07-01 22:16:35.353 INFO  [84636] [Bootstrap@66] Loaded
+2026-07-03 04:40:13.149 INFO  [26176] [Bootstrap@51] cl_server_redirector
+2026-07-03 04:40:13.150 INFO  [26176] [Config::Load@48] Loading config from: d:\Users\tdban\Desktop\MMV Master Project\Quality Check Folders\Quality Check 2.1.7\More Map Variations 2.1.7 & Weapons Mod\mod\Server Redirector\cl_server_redirector.ini
+2026-07-03 04:40:13.156 INFO  [26176] [Config::Load@92] Redirect URL: https://nightreign.fs-emu.net
+2026-07-03 04:40:13.156 INFO  [26176] [Config::Load@99] Redirect password configured.
+2026-07-03 04:40:13.156 WARN  [26176] [Config::Load@119] Alt Save NOT Active!
+2026-07-03 04:40:13.156 INFO  [26176] [Config::Load@129] Custom Shard: MMV
+2026-07-03 04:40:13.182 INFO  [26176] [QuellEOS@313] EOS SDK loaded, installing hooks...
+2026-07-03 04:40:13.184 INFO  [26176] [QuellEOS@350] EOS hooks installed successfully
+2026-07-03 04:40:13.224 INFO  [26176] [Bootstrap@66] Loaded
+2026-07-03 04:52:54.873 INFO  [112936] [Bootstrap@51] cl_server_redirector
+2026-07-03 04:52:54.874 INFO  [112936] [Config::Load@48] Loading config from: d:\Users\tdban\Desktop\MMV Master Project\Quality Check Folders\Quality Check 2.1.7\More Map Variations 2.1.7 & Weapons Mod\mod\Server Redirector\cl_server_redirector.ini
+2026-07-03 04:52:54.874 INFO  [112936] [Config::Load@92] Redirect URL: https://nightreign.fs-emu.net
+2026-07-03 04:52:54.874 INFO  [112936] [Config::Load@99] Redirect password configured.
+2026-07-03 04:52:54.874 WARN  [112936] [Config::Load@119] Alt Save NOT Active!
+2026-07-03 04:52:54.874 INFO  [112936] [Config::Load@129] Custom Shard: MMV
+2026-07-03 04:52:54.874 INFO  [112936] [QuellEOS@313] EOS SDK loaded, installing hooks...
+2026-07-03 04:52:54.875 INFO  [112936] [QuellEOS@350] EOS hooks installed successfully
+2026-07-03 04:52:54.915 INFO  [112936] [Bootstrap@66] Loaded
+2026-07-03 05:06:47.482 INFO  [104316] [Bootstrap@51] cl_server_redirector
+2026-07-03 05:06:47.482 INFO  [104316] [Config::Load@48] Loading config from: d:\Users\tdban\Desktop\MMV Master Project\Quality Check Folders\Quality Check 2.1.7\More Map Variations 2.1.7 & Weapons Mod\mod\Server Redirector\cl_server_redirector.ini
+2026-07-03 05:06:47.483 INFO  [104316] [Config::Load@92] Redirect URL: https://nightreign.fs-emu.net
+2026-07-03 05:06:47.483 INFO  [104316] [Config::Load@99] Redirect password configured.
+2026-07-03 05:06:47.483 WARN  [104316] [Config::Load@119] Alt Save NOT Active!
+2026-07-03 05:06:47.483 INFO  [104316] [Config::Load@129] Custom Shard: MMV
+2026-07-03 05:06:47.484 INFO  [104316] [QuellEOS@313] EOS SDK loaded, installing hooks...
+2026-07-03 05:06:47.484 INFO  [104316] [QuellEOS@350] EOS hooks installed successfully
+2026-07-03 05:06:47.524 INFO  [104316] [Bootstrap@66] Loaded
+2026-07-03 05:13:21.492 INFO  [64288] [Bootstrap@51] cl_server_redirector
+2026-07-03 05:13:21.492 INFO  [64288] [Config::Load@48] Loading config from: d:\Users\tdban\Desktop\MMV Master Project\Quality Check Folders\Quality Check 2.1.7\More Map Variations 2.1.7 & Weapons Mod\mod\Server Redirector\cl_server_redirector.ini
+2026-07-03 05:13:21.492 INFO  [64288] [Config::Load@92] Redirect URL: https://nightreign.fs-emu.net
+2026-07-03 05:13:21.492 INFO  [64288] [Config::Load@99] Redirect password configured.
+2026-07-03 05:13:21.492 WARN  [64288] [Config::Load@119] Alt Save NOT Active!
+2026-07-03 05:13:21.492 INFO  [64288] [Config::Load@129] Custom Shard: MMV
+2026-07-03 05:13:21.493 INFO  [64288] [QuellEOS@313] EOS SDK loaded, installing hooks...
+2026-07-03 05:13:21.493 INFO  [64288] [QuellEOS@350] EOS hooks installed successfully
+2026-07-03 05:13:21.534 INFO  [64288] [Bootstrap@66] Loaded

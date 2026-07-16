@@ -1,0 +1,5 @@
+This software contains the following MIT licensed libraries
+
+vdf_parser - Copyright(c) 2016 Matthias Moeller
+RTTIHook - Copyright (c) 2023 https://github.com/Dasaav-dsv
+curl - Copyright (c) 1996 - 2026, Daniel Stenberg, daniel@haxx.se
