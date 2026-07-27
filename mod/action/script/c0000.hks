@@ -95,13 +95,6 @@ function Patreon()
     end
 end
 
-function Kofi()
-    if env(GetSpEffectID, 690004) == TRUE then
-        openurl(690004, "ko-fi.com/churchguard")
-		act(Wait)
-    end
-end
-
 function openurl(spEffect, url)
     act(ClearSpEffect, spEffect)
     os.execute('start "link" "https://' .. url .. '/"')
@@ -111,7 +104,6 @@ function openurl2(spEffect, url)
     act(ClearSpEffect, spEffect)
     os.execute('start "link" "https://discord.gg/mMWgsdTnWw"')
 end
-
 function ExecEvent(state)
     ResetRequest()
     hkbFireEvent(state)
@@ -22941,8 +22933,7 @@ function Update()
     g_FrameCount = g_FrameCount + 1
 	Modpage()
 	Discord()
-	Patreon() 
-	Kofi() 	
+	Patreon()	  
 end
 
 function ContainDs3Dual(sp_kind) -- Check if it's a dual wielded ds3 weapon such as sellsword twinblades

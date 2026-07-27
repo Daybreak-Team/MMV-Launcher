@@ -34,10 +34,10 @@ $Event(0, Default, function() {
     $InitializeCommonEvent(0, 90015020, 49710200, 49710800);
     $InitializeCommonEvent(0, 90015008, 49710205, 49710800, 941000, 49715210, -1, 0);
     if (!IsMapVariation(2)) {
-        $InitializeCommonEvent(0, 90065137, 49710800, 49710810, 49710200, 49710800, 903800711, 49710206, 1);
+        $InitializeCommonEvent(0, 90065137, 49710800, 49710810, 49710200, 49710800, 903800711, 49710206, 0.8);
     }
     if (IsMapVariation(2)) {
-        $InitializeCommonEvent(0, 90065138, 49710800, 49710810, 49710200, 49710800, 903800711, 49710206, 49710207, 1);
+        $InitializeCommonEvent(0, 90065138, 49710800, 49710810, 49710200, 49710800, 903800711, 49710206, 49710207, 0.8);
     }
     if (IsMapVariation(2)) {
         $InitializeCommonEvent(0, 90015443, 49712200, 49710800);
@@ -149,3 +149,5 @@ L0:
     DisplayBossHealthBar(Enabled, chrEntityId, 0, nameId);
     DisplayBossHealthBar(Enabled, chrEntityId2, 0, nameId);
 });
+
+
